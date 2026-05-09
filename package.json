@@ -1,0 +1,12 @@
+{
+  "name": "smc-indicator-server",
+  "version": "1.0.0",
+  "description": "SMC Phase 1-4 indicator data server for TradingView auto-population",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
